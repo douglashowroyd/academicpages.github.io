@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-## [University of St Andrews]
+## University of St Andrews
 
 ## 2017 - 
 CAPOD 1-1 Mathematics Tutor.
@@ -40,7 +40,7 @@ MT2502: Analysis - 2 tutorials per week.
 MT1003: Pure and Applied Mathematics - 2 tutorials per week.
 
 
-## [University of Manchester]
+## University of Manchester
 
 ### 2015 - 2016
 
