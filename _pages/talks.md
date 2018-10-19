@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-##Talks and Conferences
+## Talks and Conferences
 
-###Upcoming Conferences
+### Upcoming Conferences
 
 Number Theory and Dynamics Conference 2019
 
-###Conferences Attended
+### Conferences Attended
 
 
 Arbeitsgemeinschaft: Rigidity of Stationary Measure, Oberwolfach, October 2018
@@ -48,7 +48,7 @@ British Mathematical Colloquium, Bristol, 2016
 
 Fractal geometry and dimension theory one day meeting, The University of Manchester, 07/15
 
-###Talks Given
+### Talks Given
 
 **A brief introduction to fractal geometry**	
 EMS Postgraduate Meeting for Students, The Burn, May 2018
