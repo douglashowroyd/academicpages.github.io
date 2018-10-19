@@ -48,16 +48,16 @@ Fractal geometry and dimension theory one day meeting, The University of Manches
 
 ### Talks Given
 
-*A brief introduction to fractal geometry*
+*A brief introduction to fractal geometry*  
 EMS Postgraduate Meeting for Students, The Burn, May 2018
 
-*An Introduction to Mathematical Analysis*
+*An Introduction to Mathematical Analysis*  
 Postgraduate Interdisciplinary Mathematical Symposium, The Burn, February 2017
 
-*Some dimension results on iterated sumsets*	
+*Some dimension results on iterated sumsets*  	
 Workshop on Fractals and Dimensions, Institut Mittag-Leffler, December 2017
 
-*Some dimension results on iterated sumsets*
+*Some dimension results on iterated sumsets*  
 Fractal Geometry and Dynamics Research Program, Institut Mittag-Leffler, November 2017
 
 EMS Postgraduate Meeting for Students, The Burn, 2017
@@ -66,7 +66,7 @@ Postgraduate Interdisciplinary Mathematical Symposium, The Burn, 2017
 
 Various internal seminars
 
-*Dimensions of self-affine carpets* 
+*Dimensions of self-affine carpets*  
 Young Researchers in Mathematics, St Andrews, 2016
 
 
