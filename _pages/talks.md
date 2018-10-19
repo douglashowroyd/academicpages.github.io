@@ -1,40 +1,75 @@
 ---
 layout: archive
-title: "Talks"
-permalink: /talks/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
-You may also find me at any of the below places:
+##Talks and Conferences
 
-*[arXiv](http://arxiv.org/a/howroyd_d_1)
-*[Google Scholar](https://scholar.google.co.uk/citations?user=eOurFggAAAAJ&hl=en&oi=sra)
+###Upcoming Conferences
 
+Number Theory and Dynamics Conference 2019
 
-### Submitted
-
-[6] On the Hausdorff dimension of microsets. (Joint with J. M. Fraser, Antti K&auml;enm&auml;ki and H. Yu)
-[arXiv](https://arxiv.org/abs/1808.00707)
-
-[5] Dimension growth for iterated sumsets. (Joint with J. M. Fraser and H. Yu)
-[arXiv](https://arxiv.org/abs/1802.03324)
-
-### Accepted
-
-[4] Assouad type dimensions for certain sponges with a weak coordinate ordering condition.
-To appear in *Journal of Fractal Geometry*, [arxiv](https://arxiv.org/abs/1610.04031)
+###Conferences Attended
 
 
-[3] Assouad dimension of random processes. (Joint with H. Yu)
-To appear in *Proceedings of the Edinburgh Mathematical Society*, [arxiv](https://arxiv.org/abs/1707.02507)
+Arbeitsgemeinschaft: Rigidity of Stationary Measure, Oberwolfach, October 2018
 
+Fractal Geometry and Stochastics 6, Germany, October 2018
 
-[2] On the upper regularity dimension of measures. (Joint with J. M. Fraser)
-To appear in *Indiana University Mathematics Jouranl*, [arxiv](https://arxiv.org/abs/1706.09340)
+CMI at 20, Oxford, September 2018
 
-### Published
+Thermodynamic Formalism in Dynamical Systems , Edinburgh, June 2018
 
-[1] Assouad type dimensions for self-affine sponges. (Joint with J. M. Fraser) [arxiv](https://arxiv.org/abs/1508.03393)
-*Annales Academiae Scientiarum Fennicae-Mathematica*, **42**, (2017), 149-174
+British Mathematical Colloquium, St Andrews, June 2018
+
+EMS Postgraduate Meeting for Students, The Burn, May 2018
+
+Postgraduate Interdisciplinary Mathematical Symposium, The Burn, February 2018
+
+Workshop on Fractals and Dimensions, Institut Mittag-Leffler, December 2017
+
+Fractal Geometry and Dynamics Research Program, Institut Mittag-Leffler, November 2017
+
+Arbeitsgemeinschaft: Additive Combinatorics, Entropy, and Fractal Geometry, Oberwolfach, October 2017
+
+Workshop on Diophantine approximation and related fields, York, June 2017
+
+EMS Postgraduate Meeting for Students, The Burn, June 2017
+
+Postgraduate Interdisciplinary Mathematical Symposium, The Burn, January 2017
+
+Young Researchers in Mathematics, St Andrews, 2016
+
+LMS Northern Regional Meeting, Manchester, June 2016
+
+British Mathematical Colloquium, Bristol, 2016
+
+Fractal geometry and dimension theory one day meeting, The University of Manchester, 07/15
+
+###Talks Given
+
+**A brief introduction to fractal geometry**	
+EMS Postgraduate Meeting for Students, The Burn, May 2018
+
+**An Introduction to Mathematical Analysis**
+Postgraduate Interdisciplinary Mathematical Symposium, The Burn, February 2017
+
+**Some dimension results on iterated sumsets**	
+Workshop on Fractals and Dimensions, Institut Mittag-Leffler, December 2017
+
+**Some dimension results on iterated sumsets**	
+Fractal Geometry and Dynamics Research Program, Institut Mittag-Leffler, November 2017
+
+EMS Postgraduate Meeting for Students, The Burn, 2017
+
+Postgraduate Interdisciplinary Mathematical Symposium, The Burn, 2017
+
+Various internal seminars
+
+**Dimensions of self-affine carpets** 
+Young Researchers in Mathematics, St Andrews, 2016
+
 
 {% include base_path %}
