@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Talks"
+title: "Talks and Conferences"
 permalink: /talks/
 author_profile: true
 ---
-
-## Talks and Conferences
 
 ### Upcoming Conferences
 
