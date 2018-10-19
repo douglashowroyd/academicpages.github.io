@@ -56,7 +56,7 @@ author_profile: true
 * *An Introduction to Mathematical Analysis*  
   Postgraduate Interdisciplinary Mathematical Symposium, The Burn, February 2017
 
-* *Some dimension results on iterated sumsets*  	
+* *Some dimension results on iterated sumsets*  
   Workshop on Fractals and Dimensions, Institut Mittag-Leffler, December 2017
 
 * *Some dimension results on iterated sumsets*  
