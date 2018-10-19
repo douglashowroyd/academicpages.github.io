@@ -14,11 +14,14 @@ author_profile: true
 ## 2017 - 
 CAPOD 1-1 Mathematics Tutor.
 
-### 2017 - 2018
+### 2018 - 2019
 
 ### Semester 1
 MT2000: Python tutor.
 
+MT2502: Analysis - 2 tutorials per week.
+
+MT2504: Probability and Combinatorics - Python workshops.
 
 
 ### 2017 - 2018
